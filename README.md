@@ -12,6 +12,9 @@ Finaliser l'implémentation du Drag & Drop après avoir cliqué sur le bouton Ne
 https://github.com/react-dnd/react-dnd
 
 
+![Template_skill_etape1](https://user-images.githubusercontent.com/90154906/132139278-8ae997d4-c0a6-4662-9348-562d661203ee.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
