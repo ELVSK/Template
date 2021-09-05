@@ -1,0 +1,151 @@
+.barre-horizontale {
+  overflow: hidden;
+  background-color: #FFFFFF;
+    box-shadow: 0px 0.2px 7px;
+}
+
+
+
+.barre-horizontale .search-container {
+  float: left;
+  margin-left: 25%;
+
+}
+
+.barre-horizontale input[type=text] {
+  padding: 6px;
+  width : 250%;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 17px;
+  border: none;
+
+  background-color: #f2f2f2;
+
+}
+
+
+
+
+.macroSkillPageClass
+{
+  display: none;
+}
+
+.zoneAffichageMacroSkills {
+  margin-left : 20%;
+  margin-top : 3%;
+}
+
+.tailleTexteBoutons
+{
+  font-size: 12px;
+  text-align: left;
+}
+
+
+.macro-skill-text-attributes
+{
+  margin-top: 0.1%;
+  width: 70%;
+  border-radius: 10px;
+  border-color: #f2f2f2;
+  padding: 5px;
+}
+
+
+.divNomMacroClass
+{
+  margin-top: 5%;
+}
+
+
+
+.btn-next
+{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width : 10%;
+  background-color: #cccccc;
+}
+
+.btn-prev
+{
+  position: absolute;
+  bottom: 0px;
+  margin-left: 5%;
+  width : 10%;
+  display: none;
+}
+
+
+
+.barre-verticale {
+  min-width: 17rem;
+  width: 17rem;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+
+
+
+.Tabs-Dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.Tabs-Dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.Skills-Tabs-Dropdown:hover .Tabs-Dropdown-content {
+  display: block;
+}
+
+.Activities-Tabs-Dropdown:hover .Tabs-Dropdown-content {
+  display: block;
+}
+
+
+.Broadcasting-Tabs-Dropdown:hover .Tabs-Dropdown-content {
+  display: block;
+}
+
+.MonitoringLearners-Tabs-Dropdown:hover .Tabs-Dropdown-content {
+  display: block;
+}
+
+
+
+
+.separator {
+  margin: 3rem 0;
+  border-bottom: 1px dashed #fff;
+}
+
+.text-uppercase {
+  letter-spacing: 0.1em;
+}
+
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: green;
+  background-color: #f2f2f2;
+}
